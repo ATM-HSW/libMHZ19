@@ -1,5 +1,5 @@
-﻿![Mbed OS Version](https://img.shields.io/badge/Version-v1.0.0-green.svg)
-![based on Arduino Version](https://img.shields.io/badge/Version-v1.5.3-green.svg)
+Mbed OS ![Mbed OS](https://img.shields.io/badge/Version-v1.0.0-green.svg)<br>
+based on [WifWaf](https://github.com/WifWaf/MH-Z19) ![Arduino](https://img.shields.io/badge/Version-v1.5.3-green.svg)
 
 >  ### A Quick Note on Fake MH-Z19's
 >  **A fake version is said to be in circulation which differs in hardware, and at a minimum, ppm stability.**
