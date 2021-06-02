@@ -5,7 +5,7 @@
 >  If you suspect your sensor is fake or want to be sure, then check with the [video here by Hix Field](https://www.youtube.com/watch?v=5_QQe75-SZI&feature=youtu.be) and [Revspace's article](https://revspace.nl/MH-Z19B#Fake_MH-Z19B_.28black_PCB.29) for more information.
 
 # MH-Z19 & MH-Z19B
-An Arduino library for the MH-Z19X CO2 sensor, which unlocks commands while supporting both software/hardware serial.
+An ~~Arduino~~ Mbed OS library for the MH-Z19X CO2 sensor, which unlocks commands while supporting serial communication.
 
 #### Recovery for Dysfunctional Sensors:
 See examples for the recovery code. *Note, Only use if your sensor is not recoverable by other means as it recklessly calls span.
@@ -39,7 +39,7 @@ See examples for the recovery code. *Note, Only use if your sensor is not recove
 ### "Usage"
 ---
 
-The library can be found in the IDE/IO library manager. Alternatively, simply clone this library to your working library folder and include "MHZ19.h" in your main sketch.
+~~The library can be found in the IDE/IO library manager. Alternatively,~~ simply clone this library to your working library folder and include "MHZ19.h" in your main sketch.
 
 If you are having issues with specific boards, please contact me (find my details below)
 
