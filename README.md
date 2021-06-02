@@ -96,7 +96,9 @@ This library was originaly inspired by Strange-V's work! https://github.com/stra
 
 ### Feedback
 ---
-This is one of my first pieces of code, so lots of room for imporvement, feel free to provide constructive feedback; jdwifwaf@gmail.com
+~~This is one of my first pieces of code, so lots of room for imporvement, feel free to provide constructive feedback; jdwifwaf@gmail.com
+
+>If this library was particularly helpful, and you feel like funding a replacement sensor (brutalised from testing!) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=appveyor)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9MJYH22A92LWG&source=url)~~
 
 
->If this library was particularly helpful, and you feel like funding a replacement sensor (brutalised from testing!) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=appveyor)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9MJYH22A92LWG&source=url)
+Feel free to provide constructive feedbak: olaf.hagendorf@hs-wismar.de
