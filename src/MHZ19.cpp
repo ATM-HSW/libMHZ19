@@ -21,7 +21,7 @@ uint8_t Commands[14] = {
     156,  // 10 Get Background CO2
     160,  // 11 Get Firmware Version
     162,  // 12 Get Last Response
-    163    // 13 Get Temp Calibration
+    163   // 13 Get Temp Calibration
 };
 
 /*#####################-Initiation Functions-#####################*/
@@ -367,11 +367,11 @@ void MHZ19::autoCalibration(bool isON, uint8_t ABCPeriod) {
     }
     /* If no period was defined (for safety, even though default argument is given)*/
     else
-      ABCPeriod = MHZ19_ABC_PERIOD_DEF;    // Default bytes
+      ABCPeriod = MHZ19_ABC_PERIOD_DEF;      // Default bytes
   }
   /* If ABC is OFF */
   else
-      ABCPeriod = MHZ19_ABC_PERIOD_OFF;                      // Set command byte to Zero to match command format.
+      ABCPeriod = MHZ19_ABC_PERIOD_OFF;      // Set command byte to Zero to match command format.
 
   /* Update storage */
   this->storage.settings.ABCRepeat = !isON;  // Set to opposite, as repeat command is sent only when ABC is OFF.
